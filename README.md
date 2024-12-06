@@ -11,3 +11,13 @@ Maximize Revenue:
 
 3)  Enhance Customer Experience: Provide more flexible pricing options that align with customer preferences, increasing retention and satisfaction.
 
+
+
+##### Applied Knowledge :
+1) Algorithm Development & Implementation
+2) Data Analysis & Modelling
+3) Exploratory Data Analysis (EDA)
+4) Regression Analysis
+5) Price Elasticity Concepts
+6) Time Series Analysis, forecasting and model validation
+7) Presentation with Business Recommendations
